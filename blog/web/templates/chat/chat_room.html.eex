@@ -1,0 +1,8 @@
+<h1>Live Chat</h1>
+<div id="messages"></div>
+<div class="form-group">
+<label for="chat-input" class="control-label">New message:</label>
+<input id="chat-input" type="text"></input>
+</div>
+<br>
+<a href="/">Return</a>
